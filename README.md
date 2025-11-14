@@ -3,6 +3,7 @@
 **Nome:** Lucas Kendi Azuma  
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Nascimento:** 10/12/1998
+<img width="639" height="633" alt="foto" src="https://github.com/user-attachments/assets/b9948d99-dc99-45f9-bd55-296272fbe49c" />
 
 ## 📚 Formação Acadêmica
 
