@@ -150,8 +150,8 @@ Durante o projeto, trabalhei habilidades como **comunicação** para transmitir 
 
 ## ♠️ Terceiro Semestre - Agosto/2024
 
-**Link do Repositório:** https://github.com/ThothTech-Fatec/Maat-View 
-**Empresa:** Youtan 
+**Link do Repositório:** https://github.com/ThothTech-Fatec/Maat-View   
+**Empresa:** Youtan   
 **Tecnologias:** Figma, GitHub, MySQL, React, VSCode, JavaScript, Typescript, HTML5, CSS3
 
 ### 🚨 Problema
@@ -184,8 +184,8 @@ Durante o projeto, trabalhei habilidades como **trabalho em equipe**, colaborand
 
 ## ♦️ Quarto Semestre - Janeiro/2025
 
-**Link do Repositório:** https://github.com/ThothTech-Fatec/Project-Gestum
-**Empresa:** FAPG (Fundação de Apoio à Pesquisa e Gestão) 
+**Link do Repositório:** https://github.com/ThothTech-Fatec/Project-Gestum  
+**Empresa:** FAPG (Fundação de Apoio à Pesquisa e Gestão)   
 **Tecnologias:** GitHub, MySQL, React, VSCode, JavaScript, Typescript, CSS3, Jira
 
 ### 🚨 Problema
@@ -196,9 +196,8 @@ O problema central era a ausência de uma ferramenta integrada que consolidasse 
 
 ### 🚀 Solução
 
-A solução foi o desenvolvimento do Project Gestum, um sistema web responsivo projetado para a gestão completa do ciclo de vida dos projetos. A plataforma permite o cadastro, edição e exclusão de projetos, com associação de participantes e definição de papéis.
-As funcionalidades-chave incluem a criação de atividades com controle de status, prazos e responsáveis, mecanismos de filtro avançados (por área, instituição, status), Business Intelligence com dashboards de evolução e geração de relatórios em PDF e Excel. Além disso, a aplicaçã conta com um controle de acesso por níveis, baseado em autenticação de usuários.
-
+A solução foi o desenvolvimento do Project Gestum, um sistema web responsivo projetado para a gestão completa do ciclo de vida dos projetos. A plataforma permite o cadastro, edição e exclusão de projetos, com associação de participantes e definição de papéis.  
+As funcionalidades-chave incluem a criação de atividades com controle de status, prazos e responsáveis, mecanismos de filtro avançados (por área, instituição, status), Business Intelligence com dashboards de evolução e geração de relatórios em PDF e Excel. Além disso, a aplicaçã conta com um controle de acesso por níveis, baseado em autenticação de usuários.  
 O projeto foi executado em três sprints, com foco em entregas de valor contínuo e refinamento da aplicação.
  
 ### 🪢 Contribuições
@@ -220,8 +219,8 @@ Durante o projeto, trabalhei habilidades como **pensamento analítico** para rea
 
 ## ♦️ Quinto Semestre - Agosto/2025
 
-**Link do Repositório:** https://github.com/ThothTech-Fatec/GeoRah
-**Empresa:** Visiona 
+**Link do Repositório:** https://github.com/ThothTech-Fatec/GeoRah  
+**Empresa:** Visiona   
 **Tecnologias:**
 - SQLAlchemy – ORM para gerenciamento de tabelas e relacionamentos
 - React Native (Expo) – Desenvolvimento mobile multiplataforma
