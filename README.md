@@ -7,13 +7,13 @@
 
 ## 📚 Formação Acadêmica
 
+**Ensino Superior:** FATEC - São José dos Campos - Prof. Jessen Vidal - Análise e Desenvolvimento de Sistemas (set/2023 - atual)
+
 **Ensino Médio Técnico:** Colégio IDEIA - Instituto De Desenvolvimento Educacional Inovando o Aprendizado - Técnico em Informática *(jan/2014 - dezembro/2016)*
 
 **Ensino Superior:** Universidade Anhembi Morumbi - Gestão de Recursos Humanos *(jan/2020 - dez/2021)*
 
 **Curso Técnico:** Senai - Técnico em Mecatrônica - Aprendiz General Motors *(set/2019 - set/2021)*
-
-**Ensino Superior:** FATEC - São José dos Campos - Prof. Jessen Vidal - Análise e Desenvolvimento de Sistemas
 
 ## 🦖 Por que ingressar na Fatec?
 
@@ -102,9 +102,9 @@ O sistema foi dotado de recursos que fomentam o aprendizado ativo, incluindo val
  
 ### 🪢 Contribuições
 
-Como um dos desenvolvedores da aplicação, minha atuação foi bem prática e focada em código.  
-Além da validação da prototipação, participei ativamente do desenvolvimento front-end, codando diretamente, com os outros integrantes, as principais telas, sejam elas de conteúdo didático do projeto ou abas de navegação para o usuário. 
-Também ajudei a montar os slides para as apresentações ao cliente e participei ativamente dessas reuniões.
+Como um dos desenvolvedores da aplicação, minha atuação foi prática e focada em código.  
+Realizei a validação do protótipo navegável no Figma e participei ativamente do desenvolvimento front-end, realizando o desenvolvimento das principais telas de conteúdo didático do projeto e abas de navegação para o usuário dos módulos do curso para usuário.
+Auxiliei também na montagem dos slides para as apresentações ao cliente e participei ativamente dessas reuniões. Além disso, ajudei os membros da equipe que estavam com dificuldade para realizar suas tarefas.
 
 ### 🪡 Hard Skils
 - Flask: uso com auxílio
@@ -168,7 +168,7 @@ Toda a coleta de dados é centralizada e traduzida em indicadores visuais atrav�
  
 ### 🪢 Contribuições
 
-Atuei no time de desenvolvimento, auxiliando e participando com meus colegas desenvolvedores em pair-coding, participando da criação da base de dados da aplicação e também auxiliando na compreensão e implementação dos níveis de acesso, que foram um desafio grande nesse projeto. 
+Atuei no time de desenvolvimento, auxiliando e participando com meus colegas desenvolvedores em pair-coding, participando da criação da base de dados da aplicação, seguindo as regras de negócio impostas pela empresa parceira. Também auxiliei na compreensão e implementação dos níveis de acesso, que foram um desafio grande nesse projeto. 
 
 ### 🪡 Hard Skils
 - React – uso com auxílio
@@ -203,7 +203,7 @@ O projeto foi executado em três sprints, com foco em entregas de valor contínu
  
 ### 🪢 Contribuições
 
-Atuei no time de desenvolvimento, auxiliando o time de desenvolvimento com pair-coding. Fiquei responsável por criar os cards que seriam utilizados na aba de "Minhas atividades" no projeto, onde eram alocadas atividades ao usuário específico, na aba de "Notificações", de "Adicionar Participantes" e de "Criar novo projeto", além de auxiliar na integração entre back-end e front-end para que essas informações fossem enviadas ao banco e mostradas corretamente na interface de usuário.
+Atuei no time de desenvolvimento, auxiliando meus colegas de equipe no pair-coding. Fiquei responsável por criar os cards que seriam utilizados na aba de "Minhas atividades" no projeto, onde eram alocadas atividades ao usuário específico, na aba de "Notificações", de "Adicionar Participantes" e de "Criar novo projeto", além de auxiliar na integração entre back-end e front-end para que essas informações fossem enviadas ao banco e mostradas corretamente na interface de usuário.
 
 ### 🪡 Hard Skils
 - React – uso com auxílio
@@ -247,8 +247,8 @@ Os recursos chave incluem: autenticação segura de usuários(JWT/OAuth), gerenc
  
 ### 🪢 Contribuições
 
-Atuei como Scrum Master da equipe, me responsabilizando por facilitar a comunicação entre os membros da equipe, realizar as reuniões diárias, planejamento de sprint, revisões de sprint e garantir que todos os membros estejam com suas questões resolvidas para que possam gerar valor nas entregas, sem impedimentos e barreiras. Também estou rastreando as métricas da equipe usando do Burndown Chart, fazendo a relação entre tempo de entrega e story point das tasks.  
-Além de facilitar o dia a dia da equipe, auxiliei na divisão de prioridade das entregas do produto, refinamento das User Stories e criação do wireframe do produto no Figma.
+Atuei como Scrum Master da equipe, me responsabilizando por facilitar a comunicação entre os membros da equipe, realizar as reuniões diárias, planejamento de sprint, revisões de sprint e garantir que todos os membros estejam com suas questões resolvidas para que possam gerar valor nas entregas, sem impedimentos e barreiras. Também realizei o rastreamento das métricas da equipe usando do Burndown Chart, fazendo a relação entre tempo de entrega e story point das tasks, aprimorando nossa suposição de tempo para as tasks da sprint.  
+Além de facilitar o dia a dia da equipe, auxiliei na divisão de prioridade das entregas do produto, refinamento das User Stories e criação do wireframe do produto no Figma, gerando um protótipo completamente navegável, simulando o funcionamento da aplicação real.
 
 ### 🪡 Hard Skils
 - React / TypeScript – uso com auxílio
